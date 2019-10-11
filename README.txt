@@ -1,0 +1,1 @@
+Folder reklamowy wydawania pieniędzy
