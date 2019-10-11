@@ -4,11 +4,20 @@
     max-width: 800px;
 }
 .text {
- justify-content: flex-start;
  flex-direction: column;
  align-content: space-between;
- text-decoration: none;
+
 }
+a{
+     text-decoration: none;
+     color: white;
+     background: black;
+     padding: 10px;
+}
+/* a :hover{
+    color: goldenrod;
+} dowiedz się jak w hover*/
+
 .image {
     justify-content: flex-end;
     float: left;
